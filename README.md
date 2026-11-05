@@ -76,7 +76,8 @@ plt.savefig("results/original_loss.png", dpi=220)
 plt.close()
 ```
 
-![基础 MLP 训练损失曲线](results/original_loss.png)
+<img width="1760" height="1100" alt="original_loss" src="https://github.com/user-attachments/assets/99eadee0-c0bb-4f3c-a8e9-70a4b65b0286" />
+
 
 *图 1 基础 MLP 模型实际训练损失曲线*
 
@@ -123,7 +124,8 @@ plt.savefig("results/improved_loss.png", dpi=220)
 plt.close()
 ```
 
-![改进 MLP 训练损失曲线](results/improved_loss.png)
+<img width="1760" height="1100" alt="improved_loss" src="https://github.com/user-attachments/assets/9867d8cf-12b0-485f-93bd-d217266275b9" />
+
 
 *图 2 改进 MLP 模型实际训练损失曲线*
 
@@ -156,7 +158,7 @@ plt.savefig("results/accuracy_comparison.png", dpi=220)
 plt.close()
 ```
 
-![两种模型测试准确率对比](results/accuracy_comparison.png)
+<img width="1540" height="1100" alt="accuracy_comparison" src="https://github.com/user-attachments/assets/cf00272a-138c-4117-b982-ef8302460a1d" />
 
 *图 3 两种模型实际测试准确率对比*
 
@@ -199,7 +201,8 @@ plt.savefig("results/original_confusion_matrix.png", dpi=220)
 plt.close()
 ```
 
-![基础 MLP 混淆矩阵](results/original_confusion_matrix.png)
+<img width="1760" height="1540" alt="original_confusion_matrix" src="https://github.com/user-attachments/assets/70c8f1ec-465d-47bb-879f-f2ebf488bbbd" />
+
 
 *图 4 基础 MLP 模型实际测试集混淆矩阵*
 
@@ -226,7 +229,8 @@ plt.savefig("results/improved_confusion_matrix.png", dpi=220)
 plt.close()
 ```
 
-![改进 MLP 混淆矩阵](results/improved_confusion_matrix.png)
+<img width="1760" height="1540" alt="improved_confusion_matrix" src="https://github.com/user-attachments/assets/224501e8-a5ca-42a1-a772-f7d176cab592" />
+
 
 *图 5 改进 MLP 模型实际测试集混淆矩阵*
 
